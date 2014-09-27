@@ -9,4 +9,4 @@ subset-sum method for two criteria: cost target and number of prducts. The list 
 which sorts the list based on the total cost value of products selected and returns the new sorted list. The ZapposApi function 
 then displays this list, 10 at a time. 
 Here, limit value is set to 100. 
-Sneha Iyengar
+
